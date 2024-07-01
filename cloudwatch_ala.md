@@ -31,7 +31,7 @@
 2. Add Widgets:
 
 + Click on Add widget, then select the metrics you want to display 
-+(e.g., CPU utilization, storage, memory).
++ (e.g., CPU utilization, storage, memory).
 
 + Customize each widget to show data for the specific EC2 instances or RDS instances.
 
