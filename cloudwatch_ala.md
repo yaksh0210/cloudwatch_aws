@@ -19,6 +19,7 @@
 * CPU Utilization
 * Disk Usage (Storage)
 * Memory Utilization (RAM)
+* etc .
 
 
 
